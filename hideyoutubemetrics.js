@@ -1,8 +1,9 @@
 /*
 Extension by: 
-Iris of Lys 
-https://irisoflys.com
+Liz Lorena Berberena
+https://lizlorena.com
 */
+
 var style = document.createElement('style');
 
 style.innerHTML = 
